@@ -1,5 +1,5 @@
 # Weather-Application
-The Weather Application is a web-based weather forecasting tool that allows users to get real-time weather information for various locations. The application is built using HTML, Bootstra and JavaScript, and it utilizes rapid weather API to fetch and display weather data.
+The Weather Application is a web-based weather forecasting tool that allows users to get real-time weather information for various locations. The application is built using HTML, Bootstrap and JavaScript, and it utilizes rapid weather API to fetch and display weather data.
  
  ## Features
 
